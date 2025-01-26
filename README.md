@@ -1,15 +1,15 @@
 ```java
 import mia;
-System.out.println("> Hi there, I'm Mia Kuang!");
+> Hi there, I'm Mia Kuang! Nice to see you!
 
 mia.name();
-System.out.println("> ["Mia Kuang", "Wenqing Kuang"]");
+> ["Mia Kuang", "Wenqing Kuang"]
 
 mia.learning();
-System.out.println("> ["React", "JavaScript", "Node.js", "Mongo"]");
+> ["React", "JavaScript", "Node.js", "Mongo"]
 
 mia.interests();
-System.out.println("> ["Lifting", "Hiking", "Sleeping"]");
+> ["Lifting", "Hiking", "Sleeping"]
 
 /* Mia 🌕 Tata, H */
 
