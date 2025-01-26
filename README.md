@@ -1,16 +1,17 @@
 import mia;
-> Hi there, I'm Mia Kuang!
+System.out.println("> Hi there, I'm Mia Kuang!");
 
 mia.name();
-> Output: ["Mia Kuang", "Wenqing Kuang"]
+System.out.println("> ["Mia Kuang", "Wenqing Kuang"]");
 
 mia.learning();
-> Output: ["React", "JavaScript", "Node.js", "Mongo"]
+System.out.println("> ["React", "JavaScript", "Node.js", "Mongo"]");
 
 mia.interests();
-> Output: ["Lifting", "Hiking", "Sleeping"]
+System.out.println("> ["Lifting", "Hiking", "Sleeping"]");
 
-// Author: Mia 🌕Tata, H
+/* Mia 🌕 Tata, H */
+
 
 
 
