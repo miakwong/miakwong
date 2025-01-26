@@ -1,12 +1,12 @@
 - Tata, H
-import mia
-"Hi there, I'm Mia Kuang."
-mia.name();
-["Mia Kuang", "Wenqing Kuang"]
-mia.learning();
-["React", "JavaScript", "Node.js", "Mongo"]
-mia.interests();
-["Lifting", "Hiking", "Sleeping"]
+- import mia
+- "Hi there, I'm Mia Kuang."
+- mia.name();
+- ["Mia Kuang", "Wenqing Kuang"]
+- mia.learning();
+- ["React", "JavaScript", "Node.js", "Mongo"]
+- mia.interests();
+- ["Lifting", "Hiking", "Sleeping"]
 
 
 <!---
