@@ -1,12 +1,15 @@
+```
+import mia;
+> "Hi there, I'm Mia Kuang!";
+mia.name();
+> Output: ["Mia Kuang", "Wenqing Kuang"]
+mia.learning();
+> Output: ["React", "JavaScript", "Node.js", "Mongo"]
+mia.interests();
+> Output: ["Lifting", "Hiking", "Sleeping"]
+
 - Tata, H
-- import mia
-- "Hi there, I'm Mia Kuang."
-- mia.name();
-- ["Mia Kuang", "Wenqing Kuang"]
-- mia.learning();
-- ["React", "JavaScript", "Node.js", "Mongo"]
-- mia.interests();
-- ["Lifting", "Hiking", "Sleeping"]
+
 
 
 <!---
